@@ -1,0 +1,1 @@
+Iont Trap N=50 J = [100] NQ = [3] sigma = 0.015
